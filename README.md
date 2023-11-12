@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=990&random=false&width=435&lines=Hi+I'm+Allen%2C+19+years+old;Computer+Science+Student)](https://git.io/typing-svg)
 
 Hello, World! 👋
-I'm Allen, a passionate computer science student in my second year of college. 🎓 My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
+I'm Allen, a passionate computer science student in my second year of college. 🎓 
+My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
+
 
 About Me
 🖥️ Currently studying Computer Science.
@@ -9,6 +11,7 @@ About Me
 🏁 Motorsports aficionado, always up for a thrilling race or a deep dive into the engineering marvels behind high-performance vehicles.
 🌟 Constantly seeking interesting and challenging projects that allow me to apply my programming skills in creative ways.
 Interests and Hobbies
+
 
 🚗 Exploring the latest advancements in automotive technology.
 🏎️ Watching and analyzing motorsports events, from Formula 1 to endurance racing.
