@@ -2,7 +2,7 @@
 
 Hello, World! 👋
 I'm Allen, a passionate computer science student in my second year of college. 🎓 
-My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
+/n My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
 
 
 About Me
