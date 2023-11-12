@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=990&random=false&width=435&lines=Hi+I'm+Allen%2C+19+years+old;Computer+Science+Student)](https://git.io/typing-svg)
 
-<!--
-**Luc1lfer/Luc1lfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, World! 👋
+I'm Allen, a passionate computer science student in my second year of college. 🎓 My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
 
-Here are some ideas to get you started:
+About Me
+🖥️ Currently studying Computer Science.
+🏎️ A car enthusiast who finds joy in exploring the intersection of technology and automotive excellence.
+🏁 Motorsports aficionado, always up for a thrilling race or a deep dive into the engineering marvels behind high-performance vehicles.
+🌟 Constantly seeking interesting and challenging projects that allow me to apply my programming skills in creative ways.
+Interests and Hobbies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚗 Exploring the latest advancements in automotive technology.
+🏎️ Watching and analyzing motorsports events, from Formula 1 to endurance racing.
+📚 Learning about new programming languages, frameworks, and cutting-edge tech.
+🎮 Enjoying video games that provide both entertainment and coding inspiration.
