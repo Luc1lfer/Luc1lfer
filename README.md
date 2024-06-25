@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=990&random=false&width=435&lines=Hi+I'm+Allen%2C+19+years+old;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=990&random=false&width=435&lines=Hi+I'm+Allen%2C+20+years+old;Computer+Science+Student)](https://git.io/typing-svg)
 
 # Hello, World! 👋
 
