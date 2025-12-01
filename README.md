@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=990&random=false&width=435&lines=Hi+I'm+Allen%2C+20+years+old;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=990&random=false&width=435&lines=Hi+I'm+Allen%2C+21+years+old;Computer+Science+Student)](https://git.io/typing-svg)
 
 # Hello, World! 👋
 
-I'm Allen, a passionate computer science student entering my second year of college. 🎓 My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
+I'm Allen, a passionate computer science student entering my 4th year of college. 🎓 My journey in the world of code has been both thrilling and enlightening, and I'm eager to share my experiences and projects with you.
 
 ## About Me
 
